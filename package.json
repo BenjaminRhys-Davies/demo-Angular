@@ -1,0 +1,33 @@
+{
+  "name": "demo-angular",
+  "version": "0.0.1",
+  "description": "Demo of a quick Angular app built with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://BenjaminRhys-Davies@github.com/BenjaminRhys-Davies/demo-Angular.git"
+  },
+  "keywords": [
+    "angular",
+    "gulp"
+  ],
+  "author": "Benjamin Rhys-Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminRhys-Davies/demo-Angular/issues"
+  },
+  "homepage": "https://github.com/BenjaminRhys-Davies/demo-Angular#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
